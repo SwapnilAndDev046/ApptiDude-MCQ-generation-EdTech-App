@@ -18,6 +18,9 @@ ApptiDude is a Flutter-based educational application designed to help users prac
 
 ## 🏗️ Project Structure
 
+🏗️ Project Structure
+
+```plaintext
 ApptiDude-MCQ-generation-EdTech-App/
 ├── android/                # Android platform code
 ├── ios/                    # iOS platform code
@@ -74,7 +77,8 @@ ApptiDude-MCQ-generation-EdTech-App/
 ├── pubspec.yaml
 ├── pubspec.lock
 ├── analysis_options.yaml
----
+```
+
 
 ## 🛠️ Tech Stack
 
